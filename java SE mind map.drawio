@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T16:41:40.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="geana1TiY1PjkW-ddilL" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-11T16:49:37.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="exVvLXldltiwkC3frnLP" version="20.0.4" type="github" pages="2">
   <diagram id="sH5qiCcOdGeGCvfAOboL" name="Page-1">
-    <mxGraphModel dx="1935" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="1724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,40 +11,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-1" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;JAVA DEVELOPMENT&lt;/b&gt;&lt;/font&gt;&lt;br&gt;~a technology developed by Sun MicroSystems by James Gosling&lt;br&gt;~ earlier name was &quot;&lt;b&gt;Oak&lt;/b&gt;&quot;,then renamed as &lt;b&gt;Java.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" parent="1" vertex="1">
-          <mxGeometry x="350" y="220" width="240" height="110" as="geometry" />
+          <mxGeometry x="230" y="-152" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-5" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;TOOLS REQUIRED:&lt;/b&gt;-&lt;/font&gt;&lt;br&gt;1. JDK(Java development Kit)&lt;br&gt;2.JRE(Java Runtime Environment)&lt;br&gt;3.Editors and IDEs like Eclipse,Kawa IDE,Notepad editor etc." style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;fillColor=#9FBFAB;" parent="1" vertex="1">
-          <mxGeometry x="160" y="30" width="210" height="130" as="geometry" />
+          <mxGeometry x="132.5" y="-375" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-10" value="&lt;b&gt;&lt;font face=&quot;Lucida Console&quot;&gt;COMPILER FOR JAVA&lt;/font&gt;&lt;/b&gt;:-&lt;br&gt;JAVAC.EXE is the compiler for Java development found in &amp;lt;jdk folder&amp;gt;\BIN folder" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#7AD7FF;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-10" width="220" height="180" as="geometry" />
+          <mxGeometry x="531" y="-319" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B9Iz-INxXwkHirPRDV6O-12" target="B9Iz-INxXwkHirPRDV6O-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-12" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;HIERARCHY IN JAVA&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#A1FF4F;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="310" width="180" height="110" as="geometry" />
+          <mxGeometry x="-299" y="130" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B9Iz-INxXwkHirPRDV6O-13" target="B9Iz-INxXwkHirPRDV6O-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-13" value="&lt;b&gt;JAR &lt;/b&gt;File(Java Archive)/ZIP file" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="72" y="243" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B9Iz-INxXwkHirPRDV6O-15" target="B9Iz-INxXwkHirPRDV6O-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-15" value="&lt;b&gt;package&lt;/b&gt;&lt;br&gt;e.g.java.lang,java.io,&lt;br&gt;java.util,java.awt" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF6666;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="344" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B9Iz-INxXwkHirPRDV6O-17" target="B9Iz-INxXwkHirPRDV6O-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-17" value="&lt;b&gt;Class&lt;/b&gt;/Interface/Enumerator" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="647" y="470" width="180" height="60" as="geometry" />
+          <mxGeometry x="470" y="371" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-19" value="&lt;b&gt;Field/Method/Static Objects&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="690" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9Iz-INxXwkHirPRDV6O-23" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px;&quot;&gt;BASIC STRUCTURE OF JAVA&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#A1FF4F;" parent="1" vertex="1">
           <mxGeometry x="-100" y="670" width="280" height="120" as="geometry" />
